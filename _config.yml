@@ -23,8 +23,7 @@ email: basilofsunshine@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
  Hi! Work in Progress
 baseurl: "/websitetest" # the subpath of your site, e.g. /blog
-relative_url: <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://lucasgoldfein.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: linkofsunshine
 github_username:  lucasgoldfein
 
